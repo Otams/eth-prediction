@@ -1,10 +1,10 @@
-# 🧠 Ethereum Price Prediction with LSTMs
+#  Ethereum Price Prediction with LSTMs
 
 This project focuses on **predicting Ethereum prices** using **Long Short-Term Memory (LSTM)** networks, a powerful type of recurrent neural network (RNN) designed for time series forecasting.
 
 ---
 
-## 📚 What You'll Learn
+##  What it entails
 
 - Fundamentals of **cryptocurrency** as a type of time series data  
 - Exploratory Data Analysis (EDA) on Ethereum's historical price data  
